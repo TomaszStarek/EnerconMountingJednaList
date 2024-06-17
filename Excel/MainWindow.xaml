@@ -101,7 +101,7 @@
         <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Descriptions, StringFormat=Opis czynności:\ \{0\}}" RenderTransformOrigin="0.41,0.231" TextWrapping="WrapWithOverflow" FontSize="32" Margin="1414,140,34,112"/>
         <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Nc, StringFormat=Nc: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="38" Margin="410,56,942,869"/>
         <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Foreground="Brown" Text="{Binding Bus, StringFormat=Szyna: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="38" Margin="412,127,940,796"/>
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Box, StringFormat=Kuweta: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="32" Margin="1309,69,17,824"/>
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Box, StringFormat=Kuweta: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="32" Margin="1309,69,17,824" TextWrapping="WrapWithOverflow"/>
 
 
         <TextBlock DataContext="{Binding SelectedItem, ElementName=listView, StringFormat=N2}" Foreground="Magenta" Text="{Binding Progress, StringFormat=\{0\}%}" TextWrapping="WrapWithOverflow" RenderTransformOrigin="0.41,0.231" FontSize="65" Margin="0,-15,12,896" TextDecorations="Underline" HorizontalAlignment="Right" />
