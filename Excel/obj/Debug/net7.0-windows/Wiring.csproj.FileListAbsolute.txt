@@ -1,0 +1,106 @@
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\Wiring.exe
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\Wiring.deps.json
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\Wiring.runtimeconfig.json
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\Wiring.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\Wiring.pdb
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\WireToShow.g.cs
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring_Content.g.cs
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring_MarkupCompile.cache
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring_MarkupCompile.lref
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\WireToShow.baml
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.g.resources
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.csproj.CopyComplete
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\refint\Wiring.dll
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.pdb
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\Wiring.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\Excel - lista kabli\Excel\obj\Debug\net7.0-windows\ref\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\Wiring.exe
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\Wiring.deps.json
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\Wiring.runtimeconfig.json
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\Wiring.pdb
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\WireToShow.g.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring_Content.g.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring_MarkupCompile.cache
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring_MarkupCompile.lref
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\WireToShow.baml
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.g.resources
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.csproj.CopyComplete
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\refint\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.pdb
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Wiring.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\ref\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\2281209\source\repostest\EnerconWiring\Excel\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\WireToShow.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring_Content.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring_MarkupCompile.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring_MarkupCompile.lref
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\refint\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.pdb
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Wiring.exe
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Wiring.deps.json
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Wiring.runtimeconfig.json
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Wiring.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Wiring.pdb
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\WireToShow.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.g.resources
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.csproj.CopyComplete
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Wiring.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\ref\Wiring.dll

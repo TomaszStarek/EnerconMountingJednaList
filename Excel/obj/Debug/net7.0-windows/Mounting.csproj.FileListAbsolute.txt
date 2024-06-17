@@ -1,0 +1,72 @@
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Mounting.exe
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Mounting.deps.json
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Mounting.runtimeconfig.json
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Mounting.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Mounting.pdb
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\WireToShow.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting_Content.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting_MarkupCompile.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting_MarkupCompile.lref
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\WireToShow.baml
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.g.resources
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.csproj.CopyComplete
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\refint\Mounting.dll
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.pdb
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\Mounting.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\EnerconMounting\Excel\obj\Debug\net7.0-windows\ref\Mounting.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\Mounting.exe
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\Mounting.deps.json
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\Mounting.runtimeconfig.json
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\Mounting.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\Mounting.pdb
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\ClosedXML.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\ExcelNumberFormat.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\Irony.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\bin\Debug\net7.0-windows\XLParser.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.csproj.AssemblyReference.cache
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Window1.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Window2.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\WireToShow.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting_Content.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting_MarkupCompile.cache
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting_MarkupCompile.lref
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Window1.baml
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Window2.baml
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\WireToShow.baml
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.g.resources
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.AssemblyInfoInputs.cache
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.AssemblyInfo.cs
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.csproj.CoreCompileInputs.cache
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.csproj.CopyComplete
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\refint\Mounting.dll
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.pdb
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\Mounting.genruntimeconfig.cache
+C:\Users\2281209\source\repostest\EnerconMounting - Copy\Excel\obj\Debug\net7.0-windows\ref\Mounting.dll
