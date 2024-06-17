@@ -133,7 +133,7 @@ namespace Wiring {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Mounting;V1.0.0.0;component/wiretoshow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Mounting;component/wiretoshow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WireToShow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

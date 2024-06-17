@@ -61,7 +61,7 @@ namespace Wiring {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Mounting;V1.0.0.0;component/window2.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Mounting;component/window2.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Window2.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

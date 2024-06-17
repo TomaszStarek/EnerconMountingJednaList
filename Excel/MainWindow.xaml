@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Wiring"
         xmlns:vm="clr-namespace:Wiring"
         mc:Ignorable="d"
-        Title="Aplikacja Mounting" Height="1000" Width="1884">
+        Title="Aplikacja Mounting" WindowState="Maximized">
 
 
     <Window.Resources>
@@ -96,16 +96,16 @@
             </ListView.View>
         </ListView>
 
-        <TextBlock x:Name="HeaderTextBlock" DataContext="{Binding SelectedItem, ElementName=listView, NotifyOnTargetUpdated=True}" Text="{Binding Number, StringFormat=Komponent nr. \{0\}}" VerticalAlignment="Top" RenderTransformOrigin="0.41,0.231" FontSize="60" Margin="1125,-13,129,0" TargetUpdated="TextBlock_TargetUpdated" />
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView, NotifyOnTargetUpdated=True}" Foreground="#FFE346EC" Text="{Binding NameOfCabinet, StringFormat=Szafa: \{0\}}" VerticalAlignment="Top" RenderTransformOrigin="0.41,0.231" FontSize="40" Margin="412,2,632,0" TargetUpdated="TextBlock_TargetUpdated" Height="71" />
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Descriptions, StringFormat=Opis czynności:\ \{0\}}" RenderTransformOrigin="0.41,0.231" TextWrapping="WrapWithOverflow" FontSize="42" Margin="1414,140,34,112"/>
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Nc, StringFormat=Nc: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="48" Margin="410,56,538,838"/>
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Foreground="Brown" Text="{Binding Bus, StringFormat=Szyna: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="48" Margin="410,107,538,787"/>
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Box, StringFormat=Kuweta: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="48" Margin="1413,69,17,824"/>
+        <TextBlock x:Name="HeaderTextBlock" DataContext="{Binding SelectedItem, ElementName=listView, NotifyOnTargetUpdated=True}" Text="{Binding Number, StringFormat=Komponent nr. \{0\}}" VerticalAlignment="Top" RenderTransformOrigin="0.41,0.231" FontSize="38" Margin="1125,-13,129,0" TargetUpdated="TextBlock_TargetUpdated" />
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView, NotifyOnTargetUpdated=True}" Foreground="#FFE346EC" Text="{Binding NameOfCabinet, StringFormat=Szafa: \{0\}}" VerticalAlignment="Top" RenderTransformOrigin="0.41,0.231" FontSize="32" Margin="412,2,632,0" TargetUpdated="TextBlock_TargetUpdated" Height="71" />
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Descriptions, StringFormat=Opis czynności:\ \{0\}}" RenderTransformOrigin="0.41,0.231" TextWrapping="WrapWithOverflow" FontSize="32" Margin="1414,140,34,112"/>
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Nc, StringFormat=Nc: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="38" Margin="410,56,942,869"/>
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Foreground="Brown" Text="{Binding Bus, StringFormat=Szyna: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="38" Margin="412,127,940,796"/>
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Text="{Binding Box, StringFormat=Kuweta: \{0\}}" RenderTransformOrigin="0.41,0.231" FontSize="38" Margin="1413,69,17,824"/>
 
 
         <TextBlock DataContext="{Binding SelectedItem, ElementName=listView, StringFormat=N2}" Foreground="Magenta" Text="{Binding Progress, StringFormat=\{0\}%}" TextWrapping="WrapWithOverflow" RenderTransformOrigin="0.41,0.231" FontSize="65" Margin="0,-15,12,896" TextDecorations="Underline" HorizontalAlignment="Right" />
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Foreground="#FF141315"  RenderTransformOrigin="0.41,0.231"  TextAlignment="Center" FontSize="48" Margin="1363,0,0,113" FontWeight="Bold" VerticalAlignment="Bottom">
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Foreground="#FF141315"  RenderTransformOrigin="0.41,0.231"  TextAlignment="Center" FontSize="38" Margin="1363,0,0,126" FontWeight="Bold" VerticalAlignment="Bottom">
             <TextBlock.Resources>
                 <Style TargetType="{x:Type TextBlock}">
                     <Style.Triggers>
@@ -165,13 +165,13 @@
             </Button.Resources>
         </Button>
 
-        <Image x:Name="image_All" HorizontalAlignment="Left" Height="769" Margin="426,191,0,0" VerticalAlignment="Top" Width="954" OpacityMask="Black" MouseLeftButtonDown="image_Source_GotMouseCapture"/>
+        <Image x:Name="image_All" HorizontalAlignment="Left" Height="754" Margin="426,206,0,0" VerticalAlignment="Top" Width="954" OpacityMask="Black" MouseLeftButtonDown="image_Source_GotMouseCapture"/>
         <TextBlock x:Name="textBlockSet" HorizontalAlignment="Left" Margin="3,37,0,0" TextWrapping="Wrap" Text="Set:" VerticalAlignment="Top" Width="144" Height="25" FontSize="16" FontWeight="Bold"/>
         <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="2,59,0,0" VerticalAlignment="Top" Width="386" SelectionChanged="comboBox_SelectionChanged" MaxDropDownHeight="Auto" Height="35" FontSize="16"/>
         <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="3,106,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="385" Height="25" KeyDown="textBox_KeyDown"/>
         <TextBlock x:Name="textBlockLogged" HorizontalAlignment="Left" Margin="25,0,0,0" TextWrapping="Wrap" Text="" FontSize="18" VerticalAlignment="Top"/>
         <Button x:Name="buttonLogging" Content="Zaloguj" HorizontalAlignment="Left" Margin="276,28,0,0" VerticalAlignment="Top" Width="112" Click="buttonLogging_Click"/>
-        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Foreground="DodgerBlue" Text="{Binding Torque,StringFormat=Moment: \{0\} Nm}" RenderTransformOrigin="0.41,0.231" FontSize="20"  TextAlignment="Center" Margin="1087,161,584,733"/>
+        <TextBlock DataContext="{Binding SelectedItem, ElementName=listView}" Foreground="DodgerBlue" Text="{Binding Torque,StringFormat=Moment: \{0\} Nm}" RenderTransformOrigin="0.41,0.231" FontSize="32"  TextAlignment="Left" Margin="962,84,596,840"/>
 
     </Grid>
 </Window>
