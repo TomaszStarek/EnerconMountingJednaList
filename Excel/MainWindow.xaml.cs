@@ -69,8 +69,8 @@ namespace Wiring
         private void LoadDataFromExcel() 
         {
             // string fileName = "\\\\KWIPUBV04\\General$\\Enercon\\Shared\\wiring\\PrzewodyProgramWszystkie.xlsx"; //śzieżka pod którą jest lista excel z której są pobierane dane
-            //  string fileName = "\\\\KWIPUBV04\\General$\\Enercon\\Shared\\mounting\\PrzewodyProgramWszystkie.xlsx"; //śzieżka pod którą jest lista excel z której są pobierane dane
-            string fileName = "C:\\Users\\2281209\\Downloads\\PrzewodyProgramWszystkie.xlsx";
+              string fileName = "\\\\KWIPUBV04\\General$\\Enercon\\Shared\\mounting\\PrzewodyProgramWszystkie.xlsx"; //śzieżka pod którą jest lista excel z której są pobierane dane
+            //string fileName = "C:\\Users\\2281209\\Downloads\\PrzewodyProgramWszystkie.xlsx";
             using (var excelWorkbook = new XLWorkbook(fileName)) //otwiera podany plik excel
             {
                 //           var nonEmptyDataRows = excelWorkbook.Worksheet(2).RowsUsed();

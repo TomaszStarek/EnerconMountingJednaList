@@ -12,12 +12,12 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\2281209\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\2281209\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\szulena1\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\szulena1\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }
